@@ -1,4 +1,2 @@
-a = -7
-b = -99
-
+a, b = map(int,input().split())
 print(a+b)
